@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: PyCertify
+Version: 0.0.1
+Summary: Package to certify variables
+Home-page: UNKNOWN
+Author: Ishan Jain
+Author-email: ishanjain0421@gmail.com
+License: UNKNOWN
+Keywords: python,qol,validation,input
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+
+A python package designed to certify that variable are formatted as intended, and have the right contents
+
