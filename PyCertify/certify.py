@@ -1,2 +1,3 @@
 def certify(input):
-    pass
+    print("This is a test")
+
