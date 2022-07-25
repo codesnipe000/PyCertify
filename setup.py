@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 VERSION = '0.0.3' 
 DESCRIPTION = 'Package to certify variables'
-LONG_DESCRIPTION = 'A python package designed to certify that variable are formatted as intended, and have the right contents'
+LONG_DESCRIPTION = 'A python package designed to certify that variables are formatted as intended, and have the right contents'
 
 # Setting up
 setup(
