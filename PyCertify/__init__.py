@@ -1,1 +1,1 @@
-from intc_function import intc
+from PyCertify.intc_function import intc
