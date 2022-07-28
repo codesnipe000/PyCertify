@@ -1,1 +1,1 @@
-from print_test import certify
+from intc_function import intc
